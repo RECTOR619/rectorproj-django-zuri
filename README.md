@@ -1,0 +1,1 @@
+# rectorproj-django-zuri
